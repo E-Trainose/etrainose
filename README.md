@@ -25,7 +25,7 @@ Follow these steps to run the eTrainose system:
 2. Navigate to the **development** folder  
 3. Right-click inside the folder and select **Open in Terminal**  
 4. Activate the conda environment with:  
-   conda activate pyqt
+   conda activate pyqtpr
 5. Once the environment is active, run the main program with:
    python main.py
 6. From here you can:
@@ -38,3 +38,4 @@ Follow these steps to run the eTrainose system:
 - Ensure the conda environment is properly installed
 - Collected data can directly be used for AI classification
 - For reliable results, gather enough acquisition cycles to build a strong dataset
+
